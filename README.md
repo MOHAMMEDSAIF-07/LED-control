@@ -84,3 +84,4 @@ A remote IoT system that allows controlling an LED connected to a Raspberry Pi o
 3. The Raspberry Pi script periodically checks the status from the API
 4. When a status change is detected, the script controls the physical LED accordingly "# led" 
 "# pi-led" 
+"# pi-ledcontrol" 
