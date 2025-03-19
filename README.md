@@ -83,3 +83,4 @@ A remote IoT system that allows controlling an LED connected to a Raspberry Pi o
 2. The server updates the LED status in the MongoDB database
 3. The Raspberry Pi script periodically checks the status from the API
 4. When a status change is detected, the script controls the physical LED accordingly "# led" 
+"# pi-led" 
